@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dual Audio</string>
+    <string name="app_subtitle_ar">موزّع الصوت المزدوج</string>
+    <string name="app_subtitle_en">Dual Audio Router</string>
+</resources>

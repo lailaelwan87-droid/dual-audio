@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Acoustic Headband Arch -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M30,56 C30,39.5 40.7,29 54,29 C67.3,29 78,39.5 78,56"
+        android:strokeWidth="5.5"
+        android:strokeColor="#FFE2E8F0"
+        android:strokeLineCap="round" />
+
+    <!-- Left Wired 3.5mm Channel Earcup (Emerald) -->
+    <path
+        android:fillColor="#FF10E5A5"
+        android:pathData="M27,51 L33,51 C36.3,51 39,53.7 39,57 L39,69 C39,72.3 36.3,75 33,75 L27,75 C23.7,75 21,72.3 21,69 L21,57 C21,53.7 23.7,51 27,51 Z" />
+
+    <!-- Right Bluetooth Channel Earcup (Electric Cyan) -->
+    <path
+        android:fillColor="#FF38BDF8"
+        android:pathData="M75,51 L81,51 C84.3,51 87,53.7 87,57 L87,69 C87,72.3 84.3,75 81,75 L75,75 C71.7,75 69,72.3 69,69 L69,57 C69,53.7 71.7,51 75,51 Z" />
+
+    <!-- Dual Signal Splitter Y-Stem (Center Core to Both Channels) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,82 L54,66 L43,58 M54,66 L65,58"
+        android:strokeWidth="4.2"
+        android:strokeColor="#FFF8FAFC"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Acoustic Wave Bars in Center -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M48,47 L48,54 M54,42 L54,57 M60,47 L60,54"
+        android:strokeWidth="3.6"
+        android:strokeColor="#FF10E5A5"
+        android:strokeLineCap="round" />
+
+    <!-- Central Signal Core Node -->
+    <path
+        android:fillColor="#FF38BDF8"
+        android:pathData="M54,61.5 A4.5,4.5 0 1,1 53.99,61.5 Z" />
+</vector>

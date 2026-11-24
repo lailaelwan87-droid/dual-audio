@@ -1,0 +1,6 @@
+{
+  "name": "Dual Audio",
+  "description": "Play Android 13+ media simultaneously to classic 3.5mm wired headphones, USB audio, and Bluetooth headphones using Shizuku combined audio routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
